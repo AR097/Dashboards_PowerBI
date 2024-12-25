@@ -13,7 +13,7 @@ O Dashboard conta também com filtros que permitem a seleção e visualização 
 2. Separação por segmento;
 3. Seleção de País;
 
-![image](https://github.com/user-attachments/assets/f34d0773-440c-483e-a23d-0f3530897e72)
+![image](https://github.com/user-attachments/assets/922b8c02-0d7d-410c-b181-97aefb0d39c5)
 
 # Dashboard de Vendas, Custo, Margem de Lucro e KPI
 

@@ -47,3 +47,23 @@ A intenção desta página é que seja possivel identificar e analizar o efeito 
 #### Pagina 3 - Visão Pontos de Vendas
 Aqui a intenção é simples, visualizar o padrao de compras por País e ano.
 ![image](https://github.com/user-attachments/assets/4135de07-ff51-4dbd-ab5c-59201c5c3f13)
+
+# Dashboard Comercial para Análise de Performance de Vendas
+
+#### Indice
+Devido ao número de páginas que este relatório contém, foi utilizado o índice como primeira página, para facilitar a localização e melhorar a navegação.
+![image](https://github.com/user-attachments/assets/053a52fb-2063-4932-9fa9-1f6dd911f86f)
+
+#### Performance de Vendas
+![image](https://github.com/user-attachments/assets/c8f799e3-3d9a-48f5-8276-b4eb59403d59)
+
+#### Principais influenciadores de Vendas
+![image](https://github.com/user-attachments/assets/119ac686-a5a1-43a7-a2eb-3d58db057eee)
+
+#### Faixas de Vendas Por Categorias e Pontos de Venda
+Página reservada para analise de vendas po Loja, isto é, deve ser possivel compreender o total de vendas (R$) por categoria para as lojas com maior valor venda. 
+![image](https://github.com/user-attachments/assets/dcc1c27b-07d5-4969-9216-3180ce0493b6)
+
+#### Performance dos Vendedores por Região
+Permite analizar visualmente o Total de Vendas realizadas por determinado vendedor por região em que atua, podendo ser facilmente notado onde o vendedor tem maior influência, por exemplo.
+![image](https://github.com/user-attachments/assets/d7a47ba1-77df-4011-880b-ee3484d49b0d)

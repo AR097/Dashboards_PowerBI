@@ -64,11 +64,10 @@ Preview:<br>
       <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Analise%20de%20campanhas%20de%20marketing/Dashboard%20para%20An%C3%A1lize%20de%20Campanhas%20de%20Marketing%20(pagina%2002).png" width="200"/>
     </div>
 
-    
 <details>
 <summary>Dashboard Comercial para Análise de Performance de Vendas</summary>
 <br>Descrição: <br>
-  
+  Relátorio Comercial separado em 5 paginas contendo índice.
 <br><br>
 📌 <a href="https://github.com/AR097/Dashboards_PowerBI/blob/main/Performance%20de%20vendas/Performance%20de%20vendas.pbix">Link para o Dashboard</a><br><br>
 Preview:<br>

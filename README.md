@@ -76,16 +76,10 @@ Preview:<br>
 Preview:<br>
 </details>
     <div align="left">
-    </div>
-
-
-<details>
-<summary></summary>
-<br>Descrição: <br>
-  
-<br><br>
-📌 <a href="">Link para o Dashboard</a><br><br>
-Preview:<br>
-</details>
-    <div align="left">
+      <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Performance%20de%20vendas/Dashboard%20Comercial%20para%20An%C3%A1lise%20de%20Performance%20de%20Vendas%20(pagina%2001).png" width="200"/>
+      <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Performance%20de%20vendas/Dashboard%20Comercial%20para%20An%C3%A1lise%20de%20Performance%20de%20Vendas%20(pagina%2002).png" width="200"/>
+      <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Performance%20de%20vendas/Dashboard%20Comercial%20para%20An%C3%A1lise%20de%20Performance%20de%20Vendas%20(pagina%2003).png" width="200"/>
+      <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Performance%20de%20vendas/Dashboard%20Comercial%20para%20An%C3%A1lise%20de%20Performance%20de%20Vendas%20(pagina%2004).png" width="200"/>
+      <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Performance%20de%20vendas/Dashboard%20Comercial%20para%20An%C3%A1lise%20de%20Performance%20de%20Vendas%20(pagina%2005).png" width="200"/>
+      
     </div>

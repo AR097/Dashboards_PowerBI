@@ -4,6 +4,8 @@ Dashboards criados ao longo de cursos e exercícios a fim de desenvolver familia
 # Índice:
 1. Relatorio analítico de vendas globais
 2. Dashboard de Vendas, Custo, Margem de Lucro e KPI
+3. Dashboard para Análize de Campanhas de Marketing
+4. Dashboard Comercial para Análise de Performance de Vendas
 
 # Dasboards
 <details>
@@ -45,10 +47,6 @@ Preview:<br>
 </details>
     <div align="left">
     <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Dashboard%20de%20Vendas%2C%20Custo%2C%20Margem%20de%20Lucro%20e%20KPI/Relatorio%20de%20vendas%2C%20Custo%2C%20Margem%20de%20lucro%20e%20KPI.png" width="200"/>
-      <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Dashboard%20de%20Vendas%2C%20Custo%2C%20Margem%20de%20Lucro%20e%20KPI/Dashboard%20Comercial%20para%20An%C3%A1lise%20de%20Performance%20de%20Vendas%20(pagina%2002).png" width="200"/>
-      <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Dashboard%20de%20Vendas%2C%20Custo%2C%20Margem%20de%20Lucro%20e%20KPI/Dashboard%20Comercial%20para%20An%C3%A1lise%20de%20Performance%20de%20Vendas%20(pagina%2003).png" width="200"/>
-      <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Dashboard%20de%20Vendas%2C%20Custo%2C%20Margem%20de%20Lucro%20e%20KPI/Dashboard%20Comercial%20para%20An%C3%A1lise%20de%20Performance%20de%20Vendas%20(pagina%2004).png" width="200"/>
-      <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Dashboard%20de%20Vendas%2C%20Custo%2C%20Margem%20de%20Lucro%20e%20KPI/Dashboard%20Comercial%20para%20An%C3%A1lise%20de%20Performance%20de%20Vendas%20(pagina%2005).png" width="200"/>
     </div>
 
 <details>

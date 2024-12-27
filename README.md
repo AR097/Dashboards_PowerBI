@@ -6,6 +6,7 @@ Dashboards criados ao longo de cursos e exercícios a fim de desenvolver familia
 2. Dashboard de Vendas, Custo, Margem de Lucro e KPI
 3. Dashboard para Análize de Campanhas de Marketing
 4. Dashboard Comercial para Análise de Performance de Vendas
+5. Analise de dados de RH
 
 # Dasboards
 <details>
@@ -78,4 +79,13 @@ Preview:<br>
       <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Performance%20de%20vendas/Dashboard%20Comercial%20para%20An%C3%A1lise%20de%20Performance%20de%20Vendas%20(pagina%2003).png" width="200"/>
       <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Performance%20de%20vendas/Dashboard%20Comercial%20para%20An%C3%A1lise%20de%20Performance%20de%20Vendas%20(pagina%2004).png" width="200"/>
       <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Performance%20de%20vendas/Dashboard%20Comercial%20para%20An%C3%A1lise%20de%20Performance%20de%20Vendas%20(pagina%2005).png" width="200"/>
+    </div>
+<details>
+<summary>Analise de dados de RH</summary>
+
+📌 <a href="https://github.com/AR097/Dashboards_PowerBI/tree/main/Dashboard%20An%C3%A1lise%20de%20Dados%20RH#:~:text=..-,Analise%20de%20dados%20de%20RH.pbix,-Add%20files%20via">Link para o Dashboard</a><br><br>
+Preview:<br>
+</details>
+    <div align="left">
+      <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Dashboard%20An%C3%A1lise%20de%20Dados%20RH/Captura%20de%20tela%202024-12-27%20043217.jpg" width="200"/>
     </div>

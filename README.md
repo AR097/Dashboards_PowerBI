@@ -7,6 +7,7 @@ Dashboards criados ao longo de cursos e exercícios a fim de desenvolver familia
 3. Dashboard para Análize de Campanhas de Marketing
 4. Dashboard Comercial para Análise de Performance de Vendas
 5. Analise de dados de RH
+6. Dashboard Logistica
 
 # Dasboards
 <details>

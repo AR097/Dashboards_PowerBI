@@ -90,3 +90,13 @@ Preview:<br>
     <div align="left">
       <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Dashboard%20An%C3%A1lise%20de%20Dados%20RH/Captura%20de%20tela%202024-12-27%20043217.jpg" width="200"/>
     </div>
+    
+<details>
+<summary>Dashboard Logistica</summary>
+
+📌 <a href="https://github.com/AR097/Dashboards_PowerBI/tree/main/Dashboard%20Logistica">Link para o Dashboard</a><br><br>
+Preview:<br>
+</details>
+    <div align="left">
+      <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Dashboard%20Logistica/Captura%20de%20tela%202025-01-13%20211204.jpg" width="200"/>
+    </div>

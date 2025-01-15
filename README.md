@@ -8,6 +8,7 @@ Dashboards criados ao longo de cursos e exercícios a fim de desenvolver familia
 4. Dashboard Comercial para Análise de Performance de Vendas
 5. Analise de dados de RH
 6. Dashboard Logistica
+7. Analise de Dados Financeiros
 
 # Dasboards
 <details>
@@ -99,4 +100,14 @@ Preview:<br>
 </details>
     <div align="left">
       <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/Dashboard%20Logistica/Captura%20de%20tela%202025-01-13%20211204.jpg" width="200"/>
+    </div>
+    
+<details>
+<summary>Análise de Dados Financeiros</summary>
+
+📌 <a href="https://github.com/AR097/Dashboards_PowerBI/blob/main/An%C3%A1lise%20de%20dados%20financeiros/DadosFinanceiros.xlsx">Link para o Dashboard</a><br><br>
+Preview:<br>
+</details>
+    <div align="left">
+      <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/An%C3%A1lise%20de%20dados%20financeiros/Captura%20de%20tela%202025-01-15%20191815.jpg" width="200"/>
     </div>

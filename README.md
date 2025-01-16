@@ -9,6 +9,7 @@ Dashboards criados ao longo de cursos e exercícios a fim de desenvolver familia
 5. Analise de dados de RH
 6. Dashboard Logistica
 7. Analise de Dados Financeiros
+8. Análise de Dadoa Contábeis
 
 # Dasboards
 <details>
@@ -110,4 +111,14 @@ Preview:<br>
 </details>
     <div align="left">
       <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/An%C3%A1lise%20de%20dados%20financeiros/Captura%20de%20tela%202025-01-15%20191815.jpg" width="200"/>
+    </div>
+    
+<details>
+<summary>Análise de Dados Contábeis</summary>
+
+📌 <a href="https://github.com/AR097/Dashboards_PowerBI/blob/main/An%C3%A1lise%20de%20Dados%20Cont%C3%A1beis/Dataset.xlsx">Link para o Dashboard</a><br><br>
+Preview:<br>
+</details>
+    <div align="left">
+      <img src="https://github.com/AR097/Dashboards_PowerBI/blob/main/An%C3%A1lise%20de%20Dados%20Cont%C3%A1beis/Captura%20de%20tela%202025-01-15%20210720.jpg" width="200"/>
     </div>
